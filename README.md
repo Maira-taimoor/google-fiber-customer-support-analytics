@@ -4,6 +4,10 @@
 
 [**View the interactive Tableau dashboard**](https://public.tableau.com/app/profile/maira.taimoor/viz/GoogleFiber_17931261459750/Dashboard1)
 
+## Dashboard Preview
+
+![Google Fiber Customer Support Dashboard](google-fiber-dashboard.png)
+
 ## Project overview
 
 This project explores customer-support repeat contacts across three markets. The goal is to help stakeholders monitor support demand, compare markets, and identify patterns worth investigating to improve the customer experience.
