@@ -6,7 +6,7 @@
 
 ## Dashboard Preview
 
-![Google Fiber Customer Support Dashboard](google-fiber-Dashboard.png)
+![Google Fiber Customer Support Dashboard](Dashboard.png)
 
 ## Project overview
 
