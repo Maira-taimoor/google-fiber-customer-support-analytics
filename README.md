@@ -20,10 +20,17 @@ This project explores customer-support repeat contacts across three markets. The
 
 ## SQL Data Preparation
 
-Combined three market datasets using Google BigQuery
-and SQL UNION ALL to prepare a unified reporting dataset.
+Used Google BigQuery and SQL to consolidate three
+customer support market datasets into a unified
+reporting table using UNION ALL.
 
-[View SQL Query](sql/create_target_table.sql)
+### SQL Techniques
+- UNION ALL
+- Data consolidation
+- Data preparation for BI reporting
+
+### SQL Query
+[View BigQuery SQL Query](sql/create_target_table.sql)
 
 ## Dashboard KPIs
 
