@@ -18,6 +18,13 @@ This project explores customer-support repeat contacts across three markets. The
 - **Tableau Public:** Built an interactive dashboard with KPI cards, monthly trends, market comparisons, and repeat-contact period analysis.
 - **Business intelligence:** Defined reporting metrics, documented stakeholder needs, and designed visuals for decision-making.
 
+## SQL Data Preparation
+
+Combined three market datasets using Google BigQuery
+and SQL UNION ALL to prepare a unified reporting dataset.
+
+[View SQL Query](sql/create_target_table.sql)
+
 ## Dashboard KPIs
 
 | Metric | Reported value |
